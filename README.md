@@ -1,1 +1,1 @@
-# CIST2110-001-Programming-In-Python-Labs
+# CIST2110-001-Programming-In-Python-Labs-Instructor
