@@ -34,11 +34,13 @@ Git is a version control system used by developers to manage code repositories.
 
 2. Download the Windows installer and run it.
 
-3. Follow the installation wizard's instructions, leaving the default options selected.
+4. Follow the installation wizard's instructions, leaving the default options selected.
 
-4. Once the installation is complete, open the Command Prompt again.
+Note: If you see anything regarding installing git into PATH select that option.
 
-5. Verify the installation by running the following command:
+6. Once the installation is complete, open the Command Prompt again.
+
+7. Verify the installation by running the following command:
 
    ```bash
    git --version
