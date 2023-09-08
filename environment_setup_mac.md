@@ -36,7 +36,7 @@ Python is a popular programming language, and it's likely you'll need it for you
 1. Install Python 3 using Homebrew by running the following command:
 
    ```bash
-   brew install python@3.9
+   brew install python
    ```
 
 1. Verify the installation by checking the Python version:
