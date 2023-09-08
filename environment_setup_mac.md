@@ -23,6 +23,11 @@ Homebrew is a package manager that makes it easy to install and manage software 
       ```bash
       brew doctor
       ```
+   *Note: If the brew command above does not work try pasting the following to link brew to you path variables:
+   ```bash
+   echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
+   eval "$(/opt/homebrew/bin/brew shellenv)"
+   ```
 
 ## Step 2: Install Python
 
