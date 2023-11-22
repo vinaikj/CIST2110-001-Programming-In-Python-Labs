@@ -29,7 +29,7 @@
 
 # 8. Print out the dictionary.
 
-# 9. Create a dictionary called cities with an key as the City name and values as a list that contains the state, population, and country.
+# 9. Create a dictionary called cities with an key as the City name and values as a dictionary that contains the state, population, and country.
 # use the following data:
 # Trenton, New Jersey, 84,913, USA
 # New York City, New York, 8,336,817, USA
@@ -49,10 +49,10 @@
 # pip install tabulate
 
 
-# 11. Print out the population for the city of Chicago.
+# 12. Print out the population for the city of Chicago.
 
 
-# 11. **Extra** An alternative to converting a dictionary into a pandas df then tabulate, you can use dictionary unpacking and tabulate.
+# 13. **Extra** An alternative to converting a dictionary into a pandas df then tabulate, you can use dictionary unpacking and tabulate.
 # Dictionary unpacking is a new feature in Python 3.9 and allows you to unpack a dictionary into a list of dictionaries.
 # You can then use tabulate to print out the table.
 
@@ -66,7 +66,7 @@
 # Print the table using tabulate
 
 
-# 12. How many cities have a population greater than 1 million? Use a for loop to iterate through the dictionary.
+# 14. How many cities have a population greater than 1 million? Use a for loop to iterate through the dictionary.
 
-# 13.  How many cities are in the USA? Use .items() to get a list of tuples. Use a for loop to iterate through the list of tuples.
+# 15.  How many cities are in the USA? Use .items() to get a list of tuples. Use a for loop to iterate through the list of tuples.
 # Hint 1: You will need to use the second item in the tuple. The second item is a dictionary. IE. for city, info in cities.items():
